@@ -1,4 +1,4 @@
-# Machine learning based on statistical distances for safety decisions
+# Machine Learning Based on Statistical Distances for Safety Decisions
 
 Develop an AI-model that classifies given datasets and shall provide a stringent and traceable justification for the misclassification probability of the model.
 
